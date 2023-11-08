@@ -1,7 +1,7 @@
 ### Hello world! My name is Santiago  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  height="50px" width="50px">
 <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=Yony6041" />
 
-## Computer Scientist & Entrepreneur
+## Engineer & Entrepreneur
 
 ```yaml
 name: Santiago Villavicencio Cruz
@@ -16,7 +16,7 @@ relocation_interests: ["Asia", "Europe"]
 looking_for: ["Creating the tech Mexico needs and wants"]
 ```
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/Sk3KytuxDQJQ4/giphy.gif" width="500" height="320" />
 
 
 
@@ -74,13 +74,6 @@ looking_for: ["Creating the tech Mexico needs and wants"]
 <br />
 <br />
 <br />
-
-
-### Spotify Playing 🎧
-
-[![Spotify](https://spotify-yony6041.vercel.app/api/spotify)](https://open.spotify.com/user/6bdf0b5ff3f34f73bd4f1a9ccdd6d7ea)
-
-<img align="center" src="https://user-images.githubusercontent.com/48784001/130169241-21e51597-9693-47ff-a304-de1812851cd7.gif"></img>
 
 
 [linkedin]: [https://www.linkedin.com/in/santiago-v-a60904128/]
