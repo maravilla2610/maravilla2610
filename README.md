@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 - 🌱 I’m currently learning: Advanced algorithms and machine learning.
 - 💼 I’m currently working on: Building scalable web applications and contributing to open-source projects.
 - 💬 Ask me about: Python, JavaScript, and web development.
-- 📫 How to reach me: maravilla2610@example.com
+- 📫 How to reach me: santiago@carpay.ai
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: I love hiking and exploring new trails on weekends.
 
